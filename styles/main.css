@@ -9,6 +9,7 @@
 }
 .start-panel__grid {
     display: grid;
+    gap: 5px;
     grid-template-areas:
     "office other"
     "web    other";
